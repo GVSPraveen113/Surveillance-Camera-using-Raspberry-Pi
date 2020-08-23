@@ -1,0 +1,15 @@
+Step 1:
+First we need to install OS on Raspberry Pi
+
+Step 2:
+Give the connections as shown in figure
+
+Step 3:
+SSH.txt file , VNC Viewer ..
+
+Step 4:
+Installing Open Cv packages on Raspberry Pi
+pip3 install opencv-python
+
+Step-5:
+This is basically Surveillance works
